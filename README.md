@@ -1,6 +1,6 @@
 # Hi there, I'm [Pratik Kumar] 👋
 
-Computer Science Engineer | AI/ML Specialist | Data Scientist | Deep Learning Enthusiast | NLP Practitioner|
+Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Enthusiast | NLP Practitioner|
 | AI-Powered Solutions Developer | Open Source Contributor | Cloud AI Integrator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://www.linkedin.com/in/pratik-kumar-6b23002a1)
