@@ -18,10 +18,13 @@ Computer Science Engineer | AI/ML Specialist | Data Scientist | Deep Learning En
 ---
 ![banner linkeddin](https://github.com/user-attachments/assets/8f241e00-811b-4daa-aac8-977fe57276c4)
 
-👨‍💻 About Me
+👨‍💻 About Me.....................
 🎓 Artificial Intelligence and Machine Learning student at Lamrin Tech Skills University.
+
 💼 Skilled in AI and ML , Visualization, web developer, Find Insights & Trends and Cloud Computing , etc.
+
 💡 Eager to contribute innovative solutions in both AI/ML and Cloud domains and other.
+
 🌱 Currently learning advanced concepts in Deep Learning
 
 
