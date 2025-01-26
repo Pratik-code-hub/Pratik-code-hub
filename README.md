@@ -27,5 +27,66 @@ Computer Science Engineer | AI/ML Specialist | Data Scientist | Deep Learning En
 
 🌱 Currently learning advanced concepts in Deep Learning
 
+## 🛠️ My Technical Skills  🚀
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-555555?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-004482?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-9C27B0?logo=postgresql&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+### Frameworks and Libraries
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+### DevOps and Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+
+### Cloud and Security
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+### Data Visualization
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0175A8?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
+
+---
+Others
+Data Modeling
+Design Patterns
+Software Engineering
+Machine Learning
+NLP
+Deep Learning (ANN, CNN)
+Computer Vision
+---
+🔭 Internships
+
+🎓 Education
+---
+B.Tech in Data Science (CSE) at JIET Institute of Design and Technology (Aug 2022 – 2025)
+Class 12th at Mahatma Gandhi Govt School, Jodhpur (GPA: 87.90, 2020 – 2021)
+Class 10th at Laxmi Devi Mundra Public School, Jodhpur (CGPA: 58, 2018 – 2019)
+
+🚀 Projects
+---
+Dog Breed Prediction | Keras, TensorFlow, Kaggle, CNN (Nov 12, 2022)
+Built, trained, and tested a Convolutional Neural Network to identify dog breeds
+Utilized Kaggle API for dataset acquisition and data preprocessing
+Implemented a CNN architecture and achieved satisfactory accuracy on the test set
+
+
+
 
 
