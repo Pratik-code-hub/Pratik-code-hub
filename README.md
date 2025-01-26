@@ -81,9 +81,9 @@ B.Tech in Artificial Intelligence & Machine Learning (CSE) at Lamrin Tech Skills
 
 Advance Diploma in Computer Application ( at G-MIND Institute of Computer Studies 2021-2022)  ![df](https://github.com/user-attachments/assets/9dad01ff-aefc-4d8d-9758-e11278b08710)
 
-Class 12th at Mahatma Gandhi Memorial Inter College, Jalesar (GPA: 87.90, 2020 – 2021)
+Class 12th at Mahatma Gandhi Memorial Inter College, Jalesar (govt. College) (Percentage: 75, 2020 – 2021)
 
-Class 10th at Mahatma Gandhi Memorial Inter College, Jalesar (CGPA: 58, 2018 – 2019)
+Class 10th at Mahatma Gandhi Memorial Inter College, Jalesar (govt. College) (Percentage: 70, 2018 – 2019)
 
 
 🚀 Projects
