@@ -10,15 +10,15 @@ Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Ent
 
 ---
 
+![banner linkeddin](https://github.com/user-attachments/assets/8f241e00-811b-4daa-aac8-977fe57276c4)
+
+---
+
 ### 🧠 About Me
 - 🌱 Currently learning **Generative AI.
 - 🤝 Open to collaborating on **AI/ML projects**.
 - ⚡ Fun fact: I love exploring **new technologies** and **open-source contributions**.
 
----
-![banner linkeddin](https://github.com/user-attachments/assets/8f241e00-811b-4daa-aac8-977fe57276c4)
-
-👨‍💻 About Me.....................
 🎓 Artificial Intelligence and Machine Learning student at Lamrin Tech Skills University.
 
 💼 Skilled in AI and ML , Visualization, web developer, Find Insights & Trends and Cloud Computing , etc.
@@ -70,21 +70,23 @@ Machine Learning
 NLP
 Deep Learning (ANN, CNN)
 Computer Vision
----
+
 🔭 Internships
+---
+add soon
 
 🎓 Education
 ---
-B.Tech in Data Science (CSE) at JIET Institute of Design and Technology (Aug 2022 – 2025)
-Class 12th at Mahatma Gandhi Govt School, Jodhpur (GPA: 87.90, 2020 – 2021)
-Class 10th at Laxmi Devi Mundra Public School, Jodhpur (CGPA: 58, 2018 – 2019)
+B.Tech in Artificial Intelligence & Machine Learning (CSE) at Lamrin Tech Skills University (Punjab, Ropar) (Aug 2023 – 2027)
+
+Advance Diploma in Computer Application ( at G-MIND Institute of Computer Studies 2021-2022)  ![df](https://github.com/user-attachments/assets/9dad01ff-aefc-4d8d-9758-e11278b08710)
+
+Class 12th at Mahatma Gandhi Memorial Inter College, Jalesar (GPA: 87.90, 2020 – 2021)
+Class 10th at Mahatma Gandhi Memorial Inter College, Jalesar (CGPA: 58, 2018 – 2019)
 
 🚀 Projects
 ---
-Dog Breed Prediction | Keras, TensorFlow, Kaggle, CNN (Nov 12, 2022)
-Built, trained, and tested a Convolutional Neural Network to identify dog breeds
-Utilized Kaggle API for dataset acquisition and data preprocessing
-Implemented a CNN architecture and achieved satisfactory accuracy on the test set
+add soon
 
 
 
