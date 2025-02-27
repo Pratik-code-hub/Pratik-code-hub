@@ -62,6 +62,9 @@ Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Ent
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
 
 ---
+
+<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/0269a14e7cd538be31627954fcf6cd73f032ab406ad93b9f0340b738c26179a8/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737">
+
 Others
 Data Modeling
 Design Patterns
@@ -89,6 +92,13 @@ Class 10th at Mahatma Gandhi Memorial Inter College, Jalesar (govt. College) (Pe
 🚀 Projects
 ---
 add soon
+
+
+
+## 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GovardhaneNitin/GovardhaneNitin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 
