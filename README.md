@@ -1,12 +1,12 @@
-# Hi there, I'm [Pratik Kumar] 👋
+# Hi there, I'm [Pratik Kumar Agarwal] 👋
 
 Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Enthusiast | NLP Practitioner|
 | AI-Powered Solutions Developer | Open Source Contributor | Cloud AI Integrator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratikKumar-blue?logo=linkedin)](https://www.linkedin.com/in/pratik-kumar-6b23002a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratikKumar-blue?logo=linkedin)](https://www.linkedin.com/in/pratik-kumar-agarwal6b23002a1)
 [![GitHub](https://img.shields.io/badge/GitHub-PratikKumar-black?logo=github)](https://www.linkedin.com/in/pratik-kumar-6b23002a1)
-[![Email](https://img.shields.io/badge/Email-Pratikkumar207302@gmail.com-red?logo=gmail)](mailto:Pratikkumar207302@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Pratikkumar-green)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-Pratikkumar207302@gmail.com-red?logo=gmail)](mailto:Pratikkumar207302@gmail.com ) (mailto:Pratikagarwal298@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Pratikkumar-green)](https://pratikagarwal1.netlify.app)
 
 ---
 
