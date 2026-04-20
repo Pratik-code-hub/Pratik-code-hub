@@ -10,8 +10,8 @@ Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Ent
 
 ---
 
-![banner linkeddin](https://github.com/user-attachments/assets/8f241e00-811b-4daa-aac8-977fe57276c4)
-https://media.licdn.com/dms/image/v2/D5616AQEinPyAWuzHrA/profile-displaybackgroundimage-shrink_350_1400/B56Z2rFsGHGsAY-/0/1776691913213?e=1778112000&v=beta&t=XEixnDUa0sP-MLbHyYjTdzX5jub0fATaEpOQc1Jyzd8
+![banner linkeddin](https://media.licdn.com/dms/image/v2/D5616AQEinPyAWuzHrA/profile-displaybackgroundimage-shrink_350_1400/B56Z2rFsGHGsAY-/0/1776691913213?e=1778112000&v=beta&t=XEixnDUa0sP-MLbHyYjTdzX5jub0fATaEpOQc1Jyzd8)
+
 ---
 
 ### 🧠 About Me
