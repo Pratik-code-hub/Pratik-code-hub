@@ -3,7 +3,7 @@
 Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Enthusiast | NLP Practitioner|
 | AI-Powered Solutions Developer | Open Source Contributor | Cloud AI Integrator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratikKumar-blue?logo=linkedin)](https://www.linkedin.com/in/Pratik-Kumar-Agarwal6b23002a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratikKumar-blue?logo=linkedin)](https://www.linkedin.com/in/Pratik-Kumar-Agarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-PratikKumar-black?logo=github)](https://www.linkedin.com/in/pratik-kumar-agarwal6b23002a1)
 [![Email](https://img.shields.io/badge/Email-Pratikkumar207302@gmail.com-red?logo=gmail)](mailto:Pratikagarwal298@gmail.com )
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pratikkumar-green)](https://pratikagarwal1.netlify.app)
