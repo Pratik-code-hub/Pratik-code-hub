@@ -1,4 +1,6 @@
 # Hi there, I'm [Pratik Kumar Agarwal] 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-Pratikkagarwal-yellow)](https://pratikkagarwal.dpdns.org/)
+
 
 Computer Science Engineer | AI/ML Specialist | Data Analyist | Deep Learning Enthusiast | NLP Practitioner|
 | AI-Powered Solutions Developer | Open Source Contributor | Cloud AI Integrator
